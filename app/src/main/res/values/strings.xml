@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">uSn</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_work">WorkActivity</string>
+    <string-array name="School_Year">
+        <item>2012</item>
+        <item>2013</item>
+        <item>2014</item>
+        <item>2015</item>
+        <item>2016</item>
+    </string-array>
+    <string-array name="School_sem">
+        <item>Spring</item>
+        <item>Summer</item>
+        <item>Fall</item>
+    </string-array>
+    <string-array name="School_major">
+        <item>ACCT</item>
+        <item>AET</item>
+        <item>AIS</item>
+        <item>CHEM</item>
+        <item>CIVE</item>
+        <item>MATH</item>
+        <item>MBA</item>
+    </string-array>
+    <string-array name="University">
+        <item>MNSU</item>
+        <item>Minnesota</item>
+    </string-array>
+    <string-array name="Primary_Schedule">
+        <item>Work</item>
+        <item>Classes</item>
+    </string-array>
+    <string name="title_activity_school">SchoolActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+</resources>
